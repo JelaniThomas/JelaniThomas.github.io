@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      " Why I Decided to Study Data Science After 10 Years in Marketing"
-date:       2021-05-04 01:54:11 +0000
+date:       2021-05-03 21:54:12 -0400
 permalink:  why_i_decided_to_study_data_science_after_10_years_in_marketing
 ---
 
