@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "MicroMovies: An Analysis of Starting A Streaming Company"
-date:       2021-05-19 03:49:55 +0000
+date:       2021-05-18 23:49:56 -0400
 permalink:  micromovies_an_analysis_of_starting_a_streaming_company
 ---
 
@@ -52,6 +52,9 @@ Based on the analysis, these are the recommendations my team have for starting M
 
 ### Next Steps
 MicroMovies should do research on which international countries account for the highest percentage of international box office share.
+
+MicroMovies should analyze which genres and MPAA Ratings do the best internationally and domestically
+
 
 
 
